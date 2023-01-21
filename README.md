@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm 
+Lex Bour</h1>
+<h3 align="center">A passionate Mobile App developer from Pune Indonesia</h3>
 
-<!--
-**lexbour/lexbour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-Here are some ideas to get you started:
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently Working on Mobile App(React-Native)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Swift && SwiftUI100DaysOfSwift
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+
+<br/>
+
+
