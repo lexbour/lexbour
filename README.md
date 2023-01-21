@@ -20,4 +20,4 @@ Lex Bour</h1>
 
 
 <br/>
-  <img src="astro-mona.svg" width="960" height="967" class="home-astro-mona width-full position-absolute bottom-0 height-auto" alt="Mona looking at GitHub activity across the globe">
+  
